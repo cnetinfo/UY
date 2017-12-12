@@ -1,0 +1,109 @@
+{
+    "data": {
+        "couponBuy": true,
+        "deliveryTime": "1-3天",
+        "detailsMobile": "<img src=\"http://fs.51xnb.cn/613fc760-b285-42b1-9078-9aa3e831377b.jpg\" title=\"613fc760-b285-42b1-9078-9aa3e831377b\" alt=\"613fc760-b285-42b1-9078-9aa3e831377b\" />",
+        "factoryId": "ee41d45b-a294-40d6-a9b0-6b05e8b5bdf1",
+        "goodsId": "411c7463-56a4-47b9-bdcc-e0fd3bdaeca0",
+        "goodsLogoId": "9210e9f2-a399-46d5-8dbd-38530a9ce5dd",
+        "goodsPhotoIdList": "713cb7de-6d3b-4c6f-9957-ef6e8d4e27fa,54dc8864-d5b3-4c88-8242-3d07fcf47ae5,073ac665-1320-4247-86a9-fcdb6bc1eb86,7b68e657-88b2-466f-aa2a-1a7272ec8a1a",
+        "goodsPrice": {
+            "cashOnDeliveryPrice": 800,
+            "costPrice": 799,
+            "freightPrice": 0,
+            "retailPrice": 850
+        },
+        "goodsSpecId": "53735a6e-afc1-4f29-9ed6-6a4ada8f4764",
+        "inventory": 0,
+        "ioq": 1,
+        "ioqDesc": "1件",
+        "logoImg": "http://fs.51xnb.cn/9210e9f2-a399-46d5-8dbd-38530a9ce5dd.jpg",
+        "mixBuy": true,
+        "moq": 1,
+        "moqDesc": "1件",
+        "photoList": {
+            "073ac665-1320-4247-86a9-fcdb6bc1eb86": "http://fs.51xnb.cn/073ac665-1320-4247-86a9-fcdb6bc1eb86.jpg",
+            "54dc8864-d5b3-4c88-8242-3d07fcf47ae5": "http://fs.51xnb.cn/54dc8864-d5b3-4c88-8242-3d07fcf47ae5.jpg",
+            "713cb7de-6d3b-4c6f-9957-ef6e8d4e27fa": "http://fs.51xnb.cn/713cb7de-6d3b-4c6f-9957-ef6e8d4e27fa.jpg",
+            "7b68e657-88b2-466f-aa2a-1a7272ec8a1a": "http://fs.51xnb.cn/7b68e657-88b2-466f-aa2a-1a7272ec8a1a.jpg",
+            "9210e9f2-a399-46d5-8dbd-38530a9ce5dd": "http://fs.51xnb.cn/9210e9f2-a399-46d5-8dbd-38530a9ce5dd.jpg"
+        },
+        "photoListImg": [
+            "http://fs.51xnb.cn/713cb7de-6d3b-4c6f-9957-ef6e8d4e27fa.jpg",
+            "http://fs.51xnb.cn/54dc8864-d5b3-4c88-8242-3d07fcf47ae5.jpg",
+            "http://fs.51xnb.cn/073ac665-1320-4247-86a9-fcdb6bc1eb86.jpg",
+            "http://fs.51xnb.cn/7b68e657-88b2-466f-aa2a-1a7272ec8a1a.jpg"
+        ],
+        "saleNumber": 46,
+        "salesService": "",
+        "shipAddress": "甘肃庆阳",
+        "shopCouponActivityList": [
+            {
+                "activityName": "秋季果园基肥启动活动",
+                "createDate": "2017-07-30T15:49:12",
+                "createUserId": "1984ee66-f319-11e6-9fc3-ecf4bbc06c38",
+                "endDate": "2017-08-31T00:00:00",
+                "faceValue": 50,
+                "id": "11bc7f70-8095-4dfe-b033-d6bb9c237e46",
+                "issueAmountCondition": 200,
+                "issueCondition": 1,
+                "issueGoodsCondition": 0,
+                "issueNum": 500,
+                "issueUserCondition": 0,
+                "shopId": "d63b1362-e8a9-4314-a2b3-1c446f0736f0",
+                "startDate": "2017-08-01T00:00:00",
+                "state": 0,
+                "usedNumber": 0
+            }
+        ],
+        "shopCustomType": 6,
+        "shopId": "d63b1362-e8a9-4314-a2b3-1c446f0736f0",
+        "shopName": "亿信微商城",
+        "showInventory": false,
+        "showWeightPrice": 0,
+        "specDescMap": {
+          "3d642347-4813-42b6-ae4f-17d4c0dbe628": {
+            "颜色": "银",
+            "内存": "128G"
+          },
+          "53735a6e-afc1-4f29-9ed6-6a4ada8f4764": {
+            "颜色": "黑",
+            "内存": "128G"
+          },
+          "76214454-aa9a-4e57-8554-11ad0b749543": {
+            "颜色": "白",
+            "内存": "128G"
+          },
+          "9ec9ed05-bdc9-4304-a4a8-2a90c79c79c8": {
+            "颜色": "黑",
+            "内存": "64G"
+          },
+          "bc4ba5ff-172a-4240-bdbb-01deef3a6c4c": {
+            "颜色": "银",
+            "内存": "64G"
+          },
+          "f3e12888-e3d3-4a67-bf34-602f58dd15fa": {
+            "颜色": "白",
+            "内存": "64G"
+          }
+        },
+        "specParams": "",
+        "specTypeMap": {
+          "颜色": [
+            "白",
+            "黑",
+            "银"
+          ],
+          "内存": [
+            "64G",
+            "128G"
+          ]
+        },
+        "subTitle": "硝硫基(15-5-25)1袋+（16-6-36+TE）水溶肥4袋+液体肥1桶（10L）+叶面肥5袋",
+        "templateDetailId": "3574b46b-e4bc-473c-a602-bd14a71a58d6",
+        "templateId": "9e7ff10b-07dc-4f0a-a8cd-710132c26ca0",
+        "title": "金正大套餐肥"
+    },
+    "code": 200,
+    "msg": "ok"
+}

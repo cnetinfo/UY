@@ -1,0 +1,61 @@
+﻿{"data":[{
+  "cartGoodsList": [
+    {
+      "cartId": "4f1e0b54-de96-4d7a-bb0d-a17bc773d42b",
+      "goodsId": "e472acf5-1567-45ba-8730-f7efc28aee3e",
+      "goodsSpecificationId": "94b2c991-5ab9-446c-b22b-9b549c67d1dd",
+      "goodsTitle": "硫酸钾复合肥 15%氮+15%磷+15%钾硫酸钾复合肥",
+      "ioq": 1,
+      "moq": 1,
+      "number": 3,
+      "price": 144,
+      "unit": "件",
+      "unitValue": 1,
+      "url": "http://fs.51xnb.cn/3df5afc2-a358-475c-9453-125cc9cd51e5.jpg"
+    },
+    {
+      "cartId": "69383f15-68cb-47b8-8383-e314cb0107cd",
+      "goodsId": "7b3a7617-cf5a-460d-be15-5c3b46990daf",
+      "goodsSpecificationId": "8d818090-102d-4cba-9569-a14b8df1ba4e",
+      "goodsTitle": "生态有机无机水稻专业肥 20+10+10生态肥（腐殖酸+有机质）",
+      "ioq": 1,
+      "moq": 1,
+      "number": 2,
+      "price": 141,
+      "unit": "件",
+      "unitValue": 1,
+      "url": "http://fs.51xnb.cn/9d4e0d3f-3e8e-4832-9ce8-b932756180ba.jpg"
+    },
+    {
+      "cartId": "7b6c0e5b-24f4-4b80-a8af-32739ac7b2b1",
+      "goodsId": "06394e21-b14b-4a4c-88f3-fe01ea80fb10",
+      "goodsSpecificationId": "e6ad79ff-e877-4fe5-bd24-86c3c652d258",
+      "goodsTitle": "红太阳合力多五重增效抗病型水稻配方复混肥 18+8+18+腐殖酸",
+      "ioq": 1,
+      "moq": 1,
+      "number": 2,
+      "price": 114,
+      "unit": "件",
+      "unitValue": 1,
+      "url": "http://fs.51xnb.cn/3dafb97d-d6b4-4645-8399-22ac35669b31.jpg"
+    },
+    {
+      "cartId": "ade1dc72-9c3c-4cfb-b972-554315a88160",
+      "goodsId": "5774e64f-37be-45a3-9a73-a49a81e7841d",
+      "goodsSpecificationId": "eb7304dd-6fd9-4985-9164-69904f8f75e7",
+      "goodsTitle": "三维全效功能肥 15+5+10+生物菌+有机肥+腐殖酸",
+      "ioq": 1,
+      "moq": 1,
+      "number": 3,
+      "price": 155,
+      "unit": "件",
+      "unitValue": 1,
+      "url": "http://fs.51xnb.cn/4bbf29ba-98de-4ad4-8c36-934fe5858cd4.jpg"
+    }
+  ],
+  "minBuy": false,
+  "mixBuy": false
+}],
+  "code":200,
+  "msg":"成功"
+}
